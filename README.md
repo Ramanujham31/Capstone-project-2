@@ -1,1 +1,2 @@
-# Capstone-project-2
+# gold_price_prediction
+# 
